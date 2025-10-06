@@ -1,0 +1,1 @@
+This is a basic application that supports blackjack and a random challenge system. It's the world's first example project with [unrelibrary](https://github.com/sloppmachine/Unrelibrary).
